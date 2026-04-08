@@ -1,0 +1,36 @@
+[
+    {
+        "DisplayName": "Cruiser Max Amount",
+        "Category": "Vehicles",
+        "Subcategory": "Vehicles",
+        "Description": "Maximum number of Cruiser vehicles on the server.",
+        "Keywords": "scum",
+        "FieldName": "Vehicles.scum.CruiserMaxAmount",
+        "InputType": "number",
+        "IsFlagArgument": false,
+        "ParamFieldName": "Vehicles.scum.CruiserMaxAmount",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "30",
+        "Placeholder": "",
+        "MinValue": "0",
+        "MaxValue": "200",
+        "Step": "1"
+    },
+    {
+        "DisplayName": "Cruiser Max Functional Amount",
+        "Category": "Vehicles",
+        "Subcategory": "Vehicles",
+        "Description": "Maximum number of functional Cruiser vehicles.",
+        "Keywords": "scum",
+        "FieldName": "Vehicles.scum.CruiserMaxFunctionalAmount",
+        "InputType": "number",
+        "IsFlagArgument": false,
+        "ParamFieldName": "Vehicles.scum.CruiserMaxFunctionalAmount",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "20",
+        "Placeholder": "",
+        "MinValue": "0",
+        "MaxValue": "200",
+        "Step": "1"
+    }
+]
